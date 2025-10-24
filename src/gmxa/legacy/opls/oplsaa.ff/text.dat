@@ -1,0 +1,145 @@
+ C1  opls_145   1
+ C2  opls_145   2
+ H1  opls_146   3
+ C3  opls_145   4
+ H2  opls_146   5
+ C4  opls_145   6
+ H3  opls_146   7
+ C5  opls_145   8
+ H4  opls_146   9
+ C6  opls_145  10
+ O1  opls_167  11
+ C7  opls_182  12
+ H5  opls_185  13
+ H6  opls_185  14
+ C8  opls_182  15
+ H7  opls_185  16
+ H8  opls_185  17
+ O2  opls_180  18
+ C9  opls_182  19
+ H9  opls_185  20
+H10  opls_185  21
+C10  opls_182  22
+H11  opls_185  23
+H12  opls_185  24
+ O3  opls_180  25
+C11  opls_182  26
+H13  opls_185  27
+H14  opls_185  28
+C12  opls_182  29
+H15  opls_185  30
+H16  opls_185  31
+ O4  opls_167  32
+C13  opls_145  33
+C14  opls_145  34
+H17  opls_146  35
+C15  opls_145  36
+H18  opls_146  37
+C16  opls_145  38
+H19  opls_146  39
+C17  opls_145  40
+H20  opls_146  41
+C18  opls_145  42
+ O5  opls_167  43
+C19  opls_182  44
+H21  opls_185  45
+H22  opls_185  46
+C20  opls_182  47
+H23  opls_185  48
+H24  opls_185  49
+ O6  opls_180  50
+C21  opls_182  51
+H25  opls_185  52
+H26  opls_185  53
+C22  opls_182  54
+H27  opls_185  55
+H28  opls_185  56
+ O7  opls_180  57
+C23  opls_182  58
+H29  opls_185  59
+H30  opls_185  60
+C24  opls_182  61
+H31  opls_185  62
+H32  opls_185  63
+ O8  opls_167  64
+
+  C1 - C2 
+  C1 - C6 
+  C1 - O8 
+  C2 - H1 
+  C2 - C3 
+  C3 - H2 
+  C3 - C4 
+  C4 - H3 
+  C4 - C5 
+  C5 - H4 
+  C5 - C6 
+  C6 - O1 
+  O1 - C7 
+  C7 - H5 
+  C7 - H6 
+  C7 - C8 
+  C8 - H7 
+  C8 - H8 
+  C8 - O2 
+  O2 - C9 
+  C9 - H9 
+  C9 - H10
+  C9 - C10
+ C10 - H11
+ C10 - H12
+ C10 - O3 
+  O3 - C11
+ C11 - H13
+ C11 - H14
+ C11 - C12
+ C12 - H15
+ C12 - H16
+ C12 - O4 
+  O4 - C13
+ C13 - C14
+ C13 - C18
+ C14 - H17
+ C14 - C15
+ C15 - H18
+ C15 - C16
+ C16 - H19
+ C16 - C17
+ C17 - H20
+ C17 - C18
+ C18 - O5 
+  O5 - C19
+ C19 - H21
+ C19 - H22
+ C19 - C20
+ C20 - H23
+ C20 - H24
+ C20 - O6 
+  O6 - C21
+ C21 - H25
+ C21 - H26
+ C21 - C22
+ C22 - H27
+ C22 - H28
+ C22 - O7 
+  O7 - C23
+ C23 - H29
+ C23 - H30
+ C23 - C24
+ C24 - H31
+ C24 - H32
+ C24 - O8 
+
+
+ C1-    C3-    C2-    H1
+ C1-    C5-    C6-    O1
+ C2-    C4-    C3-    H2
+ C3-    C5-    C4-    H3
+ C4-    C6-    C5-    H4
+C13-   C15-   C14-   H17
+C13-   C17-   C18-    O5
+C14-   C16-   C15-   H18
+C14-   C18-   C13-    O4
+C15-   C17-   C16-   H19
+C16-   C18-   C17-   H20
+ O8-    C1-    C6-    C2
