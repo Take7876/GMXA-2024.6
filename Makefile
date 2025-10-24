@@ -90,6 +90,10 @@ $(PBC_C_OBJECT): $(PBC_C_OBJECT)
 
 .PHONY: clean touch_all
 
+# make the directories to output file
+build:
+	mkdir -p obj lib
+
 # Clean up generated files
 clean:
 	 rm $(TARGET) $(OBJECTS)
