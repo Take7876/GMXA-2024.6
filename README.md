@@ -1,4 +1,4 @@
-# GMXA-2024.6　- GROMACS Analysis Supporting Library
+# GMXA-2024.6　-　GROMACS Analysis Supporting Library
 
 This program assumes analysis using **GROMACS**.
 
@@ -46,10 +46,14 @@ To delete the generated object files and libraries:
 
 If you want to combine this program with your own program, you will need the **include path** and **library path** of this program.
 
+## License
+
+This software links to the GROMACS library, which is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later.
+GMXA itself is released under the MIT License.
+
 ## Author
 
 **Author:** Taketoshi Kitagawa  
-Kansai University Graduate School of Science and Engineering  
-Theoretical and Computational Chemistry Laboratory  
+Kansai University Graduate School of Science and Engineering Theoretical and Computational Chemistry Laboratory  
 
 **Creation Date:** May 2024
