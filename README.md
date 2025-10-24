@@ -1,5 +1,4 @@
-# GMXA-2024.6
-# GMXA - GROMACS Analysis Supporting Library
+# GMXA-2024.6　- GROMACS Analysis Supporting Library
 
 This program assumes analysis using **GROMACS**.
 
@@ -17,7 +16,8 @@ Object files are created in the `obj` directory.
 ## Simple Compilation Flow
 
 1. Rewrite the Makefile
-2. Run:
+2. `make build`
+3. `make`
 
 After compiling, you need to declare environment variables when linking your own program.  
 This is because the GROMACS library used in this program is a **dynamic library**.
@@ -40,6 +40,7 @@ as the binary format of object files differs between **Linux** and **macOS**.
 ## Cleaning
 
 To delete the generated object files and libraries:
+`make clean`
 
 ## How to Use
 
