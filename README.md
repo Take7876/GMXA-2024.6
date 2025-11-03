@@ -54,6 +54,7 @@ GMXA itself is released under the MIT License.
 ## Author
 
 **Author:** Taketoshi Kitagawa  
-Kansai University Graduate School of Science and Engineering Theoretical and Computational Chemistry Laboratory  
+Kansai University Graduate School of Science and Engineering 
+Theoretical and Computational Chemistry Laboratory  
 
 **Creation Date:** May 2024
